@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://kamzero.github.io/about/" target="blank">kamzero.github.io</a>
 - 🌱 My main interests are **Computer Vision, Robotics, Neuromorphic Computing, Deep Learning.**
 - 🤔 I’m looking for help with **Real-time Computing and Robotics.**
-- ⚡ Fun fact: I'm a big fan of BVB(&#x1F49B;): ?09.
+- ⚡ Fun fact: I'm a big fan of BVB&#x1F49B;09.
 
 
 <h3 align="left">Languages and Tools</h3>
