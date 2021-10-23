@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm kamzero</h1>
+<h1 align="center">Hi✨, I'm kamzero</h1>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kamzero)
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://kamzero.github.io/about/" target="blank">kamzero.github.io</a>
 - 🌱 My main interests are **Computer Vision, Robotics, Neuromorphic Computing, Deep Learning.**
 - 🤔 I’m looking for help with **Real-time Computing and Robotics.**
-- ⚡ Fun fact: I'm a big fan of Marco Reus.
+- ⚡ Fun fact: I'm a big fan of BVB❤09.
 
 
 <h3 align="left">Languages and Tools</h3>
