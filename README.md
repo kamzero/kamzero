@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamzero&show_icons=true&locale=en" alt="kamzero" /></p> -->
 
+[![](https://github-readme-stats.vercel.app/api?username=kamzero&show_icons=true&locale=en&layout=compact)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzero&layout=compact&hide=html,css,less,ejs,javascript,scss&hide_border=true&count_private=true)]()
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamzero&" alt="kamzero" /></p>
 
 <h3 align="left">📊 Weekly development breakdown</h3>
