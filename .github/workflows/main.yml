@@ -4,13 +4,17 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at UTC time
-    - cron: "40 17 * * *"
+    - cron: "43 17 * * *"
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-18.04
     steps:
-      - uses: athul/waka-readme@master
-        with:
+      - uses: actions/checkout@master
+      - name: Update Readme
+        uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 006c77d11113b6d2dfaec549e15c8cc0
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
