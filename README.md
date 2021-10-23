@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamzero&show_icons=true&locale=en&layout=compact" alt="kamzero" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamzero&show_icons=true&locale=en&layout=compact" alt="kamzero" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamzero&layout=compact&hide=html,css,less,ejs,javascript,scss&count_private=true" alt="kamzero" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamzero&" alt="kamzero" /></p>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=kamzero&show_icons=true&hide_border=true&count_private=true&theme=flag-india&layout=compact)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzero&layout=compact&hide=html,css,less,ejs,javascript,scss&hide_border=true&count_private=true&theme=flag-india)]()
+
+<p><img align="center" src="" alt="kamzero" /></p>
 
 <h3 align="left">📊 Weekly development breakdown</h3>
 
