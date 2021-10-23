@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kamzero&show_icons=true&hide_border=true&count_private=true&theme=flag-india&layout=compact)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzero&layout=compact&hide=html,css,less,ejs,javascript,scss&hide_border=true&count_private=true&theme=flag-india)]()
 
-<p><img align="center" src="" alt="kamzero" /></p>
 
 <h3 align="left">📊 Weekly development breakdown</h3>
 
