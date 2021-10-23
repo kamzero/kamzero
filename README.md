@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kamzero)
+
 <h1 align="center">Hi✨, I'm kamzero</h1>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kamzero)
 
 - 🔭 I’m currently pursuing my Ph.D in **CS@ZJU**.
 - 📫 How to reach me: <a href="https://kamzero.github.io/about/" target="blank">**HomePage**</a>
