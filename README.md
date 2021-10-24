@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++     1 hr 20 mins    █████████████████████░░░░   84.02 % 
+CMake   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+YAML    6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 ```
 <!--END_SECTION:waka-->
 
