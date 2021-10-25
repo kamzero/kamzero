@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kamzero)
 
-<h1 align="center">Hi✨, I'm kamzero ˚‧*♡ॢ˃̶̤̀◡˂̶̤́♡ॢ*‧˚</h1>
+<h1 align="center">Hi✨, I'm kamzero</h1>
 
 
 - 🔭 I’m currently pursuing my Ph.D in **CS@ZJU**.
