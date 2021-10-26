@@ -40,9 +40,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++     1 hr 20 mins    █████████████████████░░░░   84.02 % 
-CMake   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-YAML    6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+C++        1 hr 33 mins    ███████████████▓░░░░░░░░░   62.36 % 
+Python     40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 % 
+CMake      8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+YAML       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 <!--END_SECTION:waka-->
 
