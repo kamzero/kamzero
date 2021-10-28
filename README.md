@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamzero&show_icons=true&locale=en&layout=compact" alt="kamzero" /></p> -->
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=kamzero&show_icons=true&hide_border=true&count_private=true&theme=flag-india&layout=compact)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzero&layout=compact&hide=html,css,less,ejs,javascript,scss&hide_border=true&count_private=true&theme=flag-india)]()
+[![](https://github-readme-streak-stats.herokuapp.com/?user=kamzero&show_icons=true&hide_border=true&count_private=true&theme=flag-india&layout=compact)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzero&layout=compact&hide=html,css,less,ejs,tcl,VHDL,scss&hide_border=true&count_private=true&theme=flag-india)]()
 
 
 <h3 align="left">📊 Weekly development breakdown</h3>
