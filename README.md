@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++      35 mins         ████████████▒░░░░░░░░░░░░   49.10 % 
-YAML     21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.46 % 
-Python   14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
