@@ -40,8 +40,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++     3 hrs 5 mins    ███████████████████▒░░░░░   76.91 % 
-C       55 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
+C++        3 hrs 17 mins   ████████████████▓░░░░░░░░   66.28 % 
+C          59 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+CMake      32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Bash       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 <!--END_SECTION:waka-->
 
