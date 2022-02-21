@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++    2 hrs 7 mins    █████████████████████████   99.55 % 
 ```
 <!--END_SECTION:waka-->
 
