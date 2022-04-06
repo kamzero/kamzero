@@ -41,8 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Text    2 mins          █████████████████████████   100.00 %
-CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++           24 mins         ████████████████░░░░░░░░░   63.48 %
+YAML          5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Objective-C   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Text          2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+JSON          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+CMake         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
