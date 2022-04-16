@@ -41,7 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CMake        13 mins         ██████████▒░░░░░░░░░░░░░░   41.69 %
+Markdown     10 mins         ████████░░░░░░░░░░░░░░░░░   31.96 %
+C++          7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+Text         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+MATLAB       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
