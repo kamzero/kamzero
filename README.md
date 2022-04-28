@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing my Ph.D in **CS@ZJU**.
 - 📫 How to reach me: **sherry0zero {at} gmail [dot] com**
-- 🌱 My main interests are **Computer Vision, Robotics, Neuromorphic Computing, Deep Learning.**
+- 🌱 My main interests are **Computer Vision, Robotics, Deep Learning.**
 - 🤔 I’m looking for help with **Real-time Computing and Robotics.**
 - ⚡ Fun fact: I'm a big fan of **BVB&#x1F49B;09.**
 
