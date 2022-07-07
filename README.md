@@ -41,9 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 18 mins   ████████████████████████░   95.91 %
-JSON     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-C++      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Python   1 hr 16 mins    ███████████████████████▓░   94.10 %
+JSON     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
 ```
 
 <!--END_SECTION:waka-->
