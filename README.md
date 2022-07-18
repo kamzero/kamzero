@@ -41,9 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 33 mins   ██████████████████████▒░░   88.90 %
-MATLAB   17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Python   28 mins         █████████████████████████   99.44 %
+MATLAB   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
