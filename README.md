@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON   1 hr            █████████████████████████   100.00 %
+JSON         1 hr            ████████████████████████░   96.09 %
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
