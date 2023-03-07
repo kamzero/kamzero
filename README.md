@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TeX   0 secs          █████████████████████████   100.00 %
+Text   5 mins          █████████████████████▓░░░   86.85 %
+TeX    0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
 ```
 
 <!--END_SECTION:waka-->
