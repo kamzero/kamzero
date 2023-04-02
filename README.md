@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TeX        4 hrs 20 mins   ███████████████████████░░   92.13 %
-Markdown   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-C++        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TeX        3 hrs 52 mins   ██████████████████████▓░░   91.27 %
+Markdown   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+C++        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
