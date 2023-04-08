@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   11 mins         █████████████▒░░░░░░░░░░░   53.86 %
-C++        9 mins          ██████████▒░░░░░░░░░░░░░░   41.72 %
-CMake      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
