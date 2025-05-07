@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently pursuing my Ph.D in **CS@ZJU**.
-- 📫 How to reach me: **sherry0zero {at} gmail [dot] com**
-- 🌱 My main interests are **Computer Vision, Robotics, Deep Learning.**
-- 🤔 I’m looking for help with **Real-time Computing and Robotics.**
+- 📫 How to reach me: **xjiao {at} zju [dot] edu [dot] cn**
+- 🌱 My primary research focus is now **AI for Drug Discovery**, driven by the hope of bringing crucial innovations to patients, though my background includes Computer Vision and Robotics.
 - ⚡ Fun fact: I'm a big fan of **BVB&#x1F49B;09.**
 
 
